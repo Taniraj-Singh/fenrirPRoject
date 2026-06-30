@@ -1,0 +1,7 @@
+fuzz_targets:
+- image_fuzzer
+- archive_fuzzer
+
+project_name: Fenrir Image and Archive Parser
+project_contact: Taniraj Singh <tanirajsingh574@gmail.com>
+language: c++
